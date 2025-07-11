@@ -39,26 +39,28 @@
             "id": "d005ec27e435fa21",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2024_(PDF) Developing a Space Syntax-Based Evaluation Method for Procedurally.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2024_(PDF) Developing a Space Syntax-Based Evaluation Method for Procedurally"
-            }
-          },
-          {
-            "id": "32b67651d04adaa5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "研究综述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "研究综述"
+            }
+          },
+          {
+            "id": "b21e2960b505d541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7.11 Weekly Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.11 Weekly Report"
             }
           }
         ],
@@ -209,29 +211,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "32b67651d04adaa5",
+  "active": "b21e2960b505d541",
   "lastOpenFiles": [
-    "Final Thesis.pdf",
-    "未命名 1.md",
-    "2024_(PDF) Developing a Space Syntax-Based Evaluation Method for Procedurally.pdf",
-    "86f49cfbbb5e68c5ad3200a7f285a8db.jpg",
-    "7.7 How to evaluate the efficiency.md",
-    "建筑环境中行人动力学计算方法的综合分析.md",
-    "reference/evacuation_experiments_in_offices_and_public_buildings.pdf",
-    "reference/Office_layout_plan_evaluation_system_using_evacuation_simulation_with_communication_among_agents.pdf",
-    "reference/FULLTEXT01.pdf",
-    "reference/1-s2.0-S2352710223012822-main.pdf",
-    "reference",
-    "新建文件夹",
-    "Paper Reading Methods.md",
-    "Prototype_2_test0.sqlite-journal",
-    "未命名",
-    "Prototype_0.3dm.rhl",
+    "7.11 Weekly Report.pdf",
+    "Pasted image 20250711164202.png",
     "Pasted image 20250708170022.png",
     "Pasted image 20250708165925.png",
+    "2024_(PDF) Developing a Space Syntax-Based Evaluation Method for Procedurally.pdf",
+    "86f49cfbbb5e68c5ad3200a7f285a8db.jpg",
+    "7.11 Weekly Report.md",
+    "Trajectory/Prototype_2_corner0.sqlite-journal",
+    "Trajectory/Prototype_1_CFM_0.sqlite-journal",
+    "Trajectory/Prototype_1_CFM_0.sqlite",
+    "Trajectory/Prototype_2_corner0.sqlite",
+    "Trajectory/Prototype_2_test0.sqlite-journal",
+    "Trajectory/Prototype_2_test0.sqlite",
+    "Prototype_2_test0.sqlite-journal",
+    "研究综述.md",
+    "7.7 How to evaluate the efficiency.md",
+    "Paper Reading Methods.md",
+    "Trajectory",
+    "新建文件夹",
+    "未命名.md",
+    "建筑环境中行人动力学计算方法的综合分析.md",
     "6.30 Weekly Report.md",
     "Office space evacuation.md",
-    "7.3 Meeting.md",
-    "未命名.md"
+    "7.3 Meeting.md"
   ]
 }
